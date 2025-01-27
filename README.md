@@ -18,9 +18,9 @@ Setup Instructions
 
 2.  Setup the Project
 
-    - git clone
+    - git clone https://github.com/BharatNaik24/Ajakus-assignment.git
 
-    - cd
+    - cd Ajakus-assignment
 
     - npm install
 
